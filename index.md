@@ -1,6 +1,7 @@
 ---
 title: My site
 layout: home
+header: true
 permalink: /
 ---
 
