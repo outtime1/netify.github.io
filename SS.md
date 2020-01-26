@@ -1,10 +1,9 @@
 ---
 title: My site
-layout: home
-header: true
-permalink: /SS.md
+layout: default
+permalink: ../SS
 ---
 
 # Summer Studio 2020
 
-[Week1](../Week1.md "Summer Studio 2020 Week 1")
+[Week1](/SSW1.md "Summer Studio 2020 Week 1")

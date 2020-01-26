@@ -2,7 +2,7 @@
 title: My site
 layout: home
 header: true
-permalink: /
+permalink: ../
 ---
 
 
@@ -10,6 +10,6 @@ permalink: /
 
 ##  What I have done:
 
-[Summer Studio 2020](./SS.md "Summer Studio 2020")
+[Summer Studio 2020](../SS "Summer Studio 2020")
 ..* Week 1
 ..* Week 2
