@@ -12,4 +12,4 @@ permalink: ../
 
 [Summer Studio 2020](../SS "Summer Studio 2020")
   * [Week 1](../SSW1 "Week1")
-  * Week 2
+  * [Week 2](../SSW2 "Week2")
