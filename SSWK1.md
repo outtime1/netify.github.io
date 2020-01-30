@@ -16,11 +16,11 @@ I want to find out if I enjoy Cybersecurity to the point that I pursue it as a m
 ## How I have acheieved the Subject Outcomes
 ### SO1
 I was able to engage with stakeholders by learning from Matthew Brennan, a expert in cybersecurity who was able to help us learn the process of learning Cybersecurity.
-###SO2
+### SO2
 I was able to use design system thinking skills by working on how the design of my website would function and also in how the markdown language gets coverted to HTML
-###SO3
+### SO3
 I was able to apply technical skills in the creation and development of my website blog through the coding, pushing, forwarding and building of the website.	
-###SO4
+### SO4
 I was able to demonstrate communication and collaboration by seeking support and advice from our teachers in order to solve obstacles
-###SO5
+### SO5
 I was able to conduct self reflection by writing my reflection for the week.
