@@ -35,9 +35,10 @@ This Week I was able to engage with stakeholders by listening to two experts in 
 This week I was able to apply my design and system thinking skills through the development and research conducted on my presentation throughout the week. By thinking about the design of the slides I was able to create a presentation design that looked sleek but was still readable to the audience. It was also in my research of the tool I was able to comprehend how the tool functioned for website reconnaissance.
 ### SO3
 I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and picoCTF and complete them by using the tools available to me and also developing tools such as my Caesar Cypher solver.
-| ![Python](/assets/python1.png) |
+![Python](/assets/python1.png) 
 ### SO4
 This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group and our Facebook chat that we ensured efficient communication amongst ourselves. It was through our designation of the task that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students.
+![Our Gobuster Group](/assets/GoBuster3.png) 
 ### SO5
 This week I conducted critical review over our group and myself by adding sections to this reflection demonstrating the pitfalls and struggles we faced during this week. It is my belief that this will allow me to review my weekly actions more critically and ensure that I learn from my past mistakes. I also received criticism from tutors during our 1 on 1's allowing me to better preform for the future weeks
 
