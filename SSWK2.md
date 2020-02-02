@@ -38,7 +38,7 @@ I was able to apply technical skills this week by working on the different puzzl
 ![Python](/assets/python1.png) 
 ### SO4
 This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group and our Facebook chat that we ensured efficient communication amongst ourselves. It was through our designation of the task that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students.
-![Our Gobuster Group](/assets/GoBuster3.png) 
+![Our Gobuster Group](/assets/Gobuster3.png) 
 ### SO5
 This week I conducted critical review over our group and myself by adding sections to this reflection demonstrating the pitfalls and struggles we faced during this week. It is my belief that this will allow me to review my weekly actions more critically and ensure that I learn from my past mistakes. I also received criticism from tutors during our 1 on 1's allowing me to better preform for the future weeks
 
