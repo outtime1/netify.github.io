@@ -5,7 +5,11 @@ header: true
 permalink: ../SSW2
 ---
 
+We need to introduce ourselves.
+
 # Week2 Task Presentation
+
+
 
 ## How I have acheieved the Subject Outcomes
 
@@ -18,3 +22,6 @@ permalink: ../SSW2
 ### SO4
 
 ### SO5
+
+
+
