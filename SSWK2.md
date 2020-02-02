@@ -12,12 +12,11 @@ permalink: ../SSW2
 ## What I did:
 During this week I was able to participate in a group to complete a presentation based on a reconnaissance software called Gobuster. I also did a lot of puzzles in the picoCTF 2018 and 2019 where my scores currently sit at 200 and 1700 respectively. I also began the bandit level of over the wire where i currently sit on level 6.
 
-![Gobuster Presentation](/assets/Gobuster2.png)
-This was the slide of the presentation that I did regarding the relevancy of Gobuster to the industry.
-
-![Gobuster Speech](/assets/Gobuster.png)
-This was the speech I gave regarding Gobuster.
-
+| ![Gobuster Presentation](/assets/Gobuster2.png) |
+| This was the slide of the presentation that I did regarding the relevancy of Gobuster to the industry. |
+| ![Gobuster Speech](/assets/Gobuster.png) |
+| This was the speech I gave regarding Gobuster. |
+ 
 
 
 ## Problems I Faced:
