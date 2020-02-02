@@ -10,7 +10,7 @@ permalink: ../SSW2
 
 
 ## What I did:
-During this week I was able to participate in a group to complete a presentation based on a reconnaissance software called Gobuster 
+During this week I was able to participate in a group to complete a presentation based on a reconnaissance software called Gobuster. I also did a lot of puzzles in the picoCTF 2018 and 2019 where my scores currently sit at 200 and 1700 respectively. i also began the bandit level of over the wire where i currently sit on level 6.
 
 ![Gobuster Presentation](/assets/Gobuster2.png)
 This was the slide of the presentation that I did regarding the relevancy of Gobuster to the industry.
@@ -18,13 +18,15 @@ This was the slide of the presentation that I did regarding the relevancy of Gob
 ![Gobuster Speech](/assets/Gobuster.png)
 This was the speech I gave regarding Gobuster.
 
-## Reflection
-I listened to the advice given to me from my tutors and remade my week 1 reflection to better reflect what I have learned in class to better reflect what had happened that week. I also did a lot of puzzles in the picoCTF 2018 and 2019 where my scores currently sit at 200 and 1700 respectively. i also began the bandit level of over the wire where i currently sit on level 6.
+
 
 ## Problems I Faced:
 This week I faced problems regarding communication amongst teammates, though we were able to make a group presentation together our work efforts being uncoordinated lead us to creating overlapping parts and taking over the designated time we were given to present. I plan on remedying this in the future with better group organization as well as setting out more time to focus on the timing of our presentation. We also failed to introduce our group before our presentation which can be remedied by remembering to do so before our next presentation.
 
 Due to the failure of completing the first reflection up to the standards that were set by the class, I  went about redesigning the way I worked on completing the reflection.
+
+## Reflection on last week
+I listened to the advice given to me from my tutors and remade my week 1 reflection to better reflect what I have learned in class to better reflect what had happened that week. I went and added how I addressed the Subject Outlines in the document and also made sure I was adding artifacts in in order to validate the work that I was doing.
 
 ## How I have achieved the Subject Outcomes
 
