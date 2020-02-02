@@ -33,13 +33,12 @@ I listened to the advice given to me from my tutors and remade my week 1 reflect
 This Week I was able to engage with stakeholders by listening to two experts in the fields. Robert Mitchell who is currently a Security Engineering Manager at Gitlab and Patrick Kelso a UTS teacher who is an Expert in using Linux. Using this experience I was able to learn more about different parts of the Cyber Security Field.
 ### SO2
 This week I was able to apply my design and system thinking skills through the development and research conducted on my presentation throughout the week. By thinking about the design of the slides I was able to create a presentation design that looked sleek but was still readable to the audience. It was also in my research of the tool I was able to comprehend how the tool functioned for website reconnaissance.
-### SO3
-
+| ### SO3 |
+| --- | 
 | I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and picoCTF and complete them by using the tools available to me and also developing tools such as my Caesar Cypher solver. |
 | ![Python](/assets/python1.png) |
 
-### SO4
-
+| ### SO4 |
 | This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group and our Facebook chat that we ensured efficient communication amongst ourselves. It was through our designation of the task that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. |
 | ![Our Gobuster Group](/assets/Gobuster3.png) |
 
