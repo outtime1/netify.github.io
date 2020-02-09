@@ -11,14 +11,23 @@ permalink: ../SSW3
 
 
 ## What I did:
-This week I was to complete a bunch of challenges on OWASP juice shop. I was able to leave  0 star review by finding a vulnerability where I removed an element before it got removed. I was able to reset Bjorn's password by doxxing his account and finding a video where he created his account. I was able to access the administrator page by finding reference to it in a java script. From there I was able to delete all 5 stars reviews using the GUI that I have. I reset Jim's Password by looking him up and finding his brothers middle name. Somehow I cracked veiwing another users basket.
+This week I was to complete a bunch of challenges on OWASP juice shop. 
 
-| ![Gobuster Presentation](/assets/Gobuster2.png) |
-| This was the slide of the presentation that I did regarding the relevancy of Gobuster to the industry. |
-| ![XSS](/assets/XSS.png) |
-| This was the speech I gave regarding Gobuster. |
+ ![0 Star review](/assets/0star.png) 
+I was able to leave  0 star review by finding a conditional attribute on the submit rating button and removing it . 
+
+
+ ![Bjorns account reset](/assets/bjorn.png) 
+I was able to reset Bjorn's password by finding  his security questions answer to his account using social media (doxing) and finding a video where he created his account. 
+
+I was able to access the administrator page by finding reference to it in a java script. From there I was able to delete all 5 stars reviews using the GUI that I have. I reset Jim's Password by looking him up and finding his brothers middle name. I cracked viewing another users basket by logging in as two accounts, this confuses the site and registers that you are one user when you are currently acting as another..
+
+| ![XSS Presentation](/assets/XSS1.png) |
+| This was the slide of the presentation that I did regarding the impact of Cross Side Scripting(XSS). |
+
  
- 
+ I also this week was able to attempt some Natas levels making it to level 6.
+ | ![Natas Passwords](/assets/natas.png) |
  
  
 
