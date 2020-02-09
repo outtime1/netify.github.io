@@ -11,7 +11,8 @@ permalink: ../SSW3
 
 
 ## What I did:
-This week I was to complete a bunch of challenges on OWASP juice shop. 
+### OWASP
+This week I completed a bunch of challenges on OWASP juice shop. 
 
 | ![0 Star review](/assets/0star.png)  |
 | I was able to leave  0 star review by finding a conditional attribute on the submit rating button and removing it .  |
@@ -27,7 +28,10 @@ This week I was to complete a bunch of challenges on OWASP juice shop.
 | ![Bjorns account reset](/assets/jim.png) |
 | I reset Jim's Password by looking him up and finding his brothers middle name. |
 
-I cracked viewing another users basket by logging in as two accounts, this confuses the site and registers that you are one user when you are currently acting as another..
+
+ I cracked viewing another users basket by logging in as two accounts, this confuses the site and registers that you are one user when you are currently acting as another..
+
+### I completed the presentation deliverable and then presented it with my group on the 13th of February.
 
 | --- |
 | ![XSS Presentation](/assets/XSS1.png) |
@@ -36,9 +40,10 @@ I cracked viewing another users basket by logging in as two accounts, this confu
 | --- |
 | ![XSS Presentation](/assets/XSS.png) |
 | This is the Microsoft teams group where we designated our roles for the presentation |
-| --- |
+
+### OTW Natas 
  | ![Natas Passwords](/assets/natas.png) |
- | I also this week was able to attempt some Natas levels making it to level 6. |
+ | This week, I was able to complete some Natas levels making it to level 6. |
 
  
  
@@ -56,10 +61,10 @@ I listened to the advice given to me from my tutors and tried to add more artifa
 ### SO2
 This week I was able to apply my design and system thinking skills through the development and research conducted on my presentation throughout the week. I was also able to apply my system thinking skills through the thought process that went into trying to crack some of the OWASP vulnerabilities.
 
- ### SO3 
+### SO3 
   I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and OWASP.  How I applied these skills can be seen in the above artifacts. 
 
- ### SO4 
+### SO4 
 This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group that we ensured efficient communication amongst ourselves. It was through our designation of how the task that would be completed that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. 
 
 ### SO5
