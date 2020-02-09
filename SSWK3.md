@@ -17,7 +17,6 @@ This week I completed a bunch of challenges on OWASP juice shop.
 | ![0 Star review](/assets/0star.png)  |
 | I was able to leave  0 star review by finding a conditional attribute on the submit rating button and removing it .  |
 
-| --- |
 
 | ![Bjorns account reset](/assets/bjorn.png) |
 | I was able to reset Bjorn's password by finding  his security questions answer to his account using social media (doxing) and finding a video where he created his account. |
@@ -42,8 +41,9 @@ This week I completed a bunch of challenges on OWASP juice shop.
 | This is the Microsoft teams group where we designated our roles for the presentation |
 
 ### OTW Natas 
- | ![Natas Passwords](/assets/natas.png) |
- | This week, I was able to complete some Natas levels making it to level 6. |
+
+| ![Natas Passwords](/assets/natas.png) |
+| This week, I was able to complete some Natas levels making it to level 6. |
 
  
  
@@ -51,10 +51,8 @@ This week I completed a bunch of challenges on OWASP juice shop.
 
 ## Problems I Faced:
 This week I faced a few problems regarding to the class, I had little knowledge based on Burpsuite and as such, I was required to learn how to operate the tool on the go, I also had very little knowledge regarding to the syntax of a few of the penetration attacks such as SQL or XSS, this required me to put in more time understanding how these attacks are used and how they can exploit web vulnerabilities. Another problem faced this week was regarding communication amongst our group, though better than last week, I feel that better communication can still be achieved in order to more efficiently accomplish tasks  
-Due to the criticism received from last week, I have attempted to include more artifacts in my portfolio.
-
 ## Reflection on last week
-I listened to the advice given to me from my tutors and tried to add more artifacts that help establish that I am adhering to the subject outlines in this class
+I listened to the advice given to me from my tutors and tried to add more artifacts that help establish that I am adhering to the subject outlines in this class.
 
 ## How I have achieved the Subject Outcomes
 
