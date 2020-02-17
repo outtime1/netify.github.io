@@ -41,6 +41,16 @@ This week I was able to apply my design and system thinking skills through the d
 | ![0 Star review](/assets/0star.png)  |
 | I was able to leave a 0 star review on the juice shop site by finding the conditional attribute disabled = true. I noticed this by opening the element and checking the attributes on the button. By filling the forms in correctly I noticed this attribute disappear as such i reloaded the page removed the attribute and then completing the other forms correctly. By submitting the feedback you get the mission  |
 
+#### I completed the presentation deliverable and then presented it with my group on the 13th of February.
+
+| --- |
+| ![XSS Presentation](/assets/XSS1.png) |
+| This was the slide of the presentation that I did regarding the impact of Cross Side Scripting(XSS). |
+
+| --- |
+| ![XSS Presentation](/assets/XSS.png) |
+| This is the Microsoft teams group where we designated our roles for the presentation |  
+
 
 | ![Bjorns account reset](/assets/bjorn.png) |
 | I was able to reset Bjorn's password by finding a video in which he answers his security question on his social media (doxing) and resetting his account credentials in the shop. However I am still unable to log in to his account |
@@ -54,15 +64,6 @@ This week I was able to apply my design and system thinking skills through the d
 
  I cracked viewing another users basket by logging in as two accounts, this confuses the site and registers that you are one user when you are currently acting as another..
 
-### I completed the presentation deliverable and then presented it with my group on the 13th of February.
-
-| --- |
-| ![XSS Presentation](/assets/XSS1.png) |
-| This was the slide of the presentation that I did regarding the impact of Cross Side Scripting(XSS). |
-
-| --- |
-| ![XSS Presentation](/assets/XSS.png) |
-| This is the Microsoft teams group where we designated our roles for the presentation |  
 
 ### SO4 
 This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group that we ensured efficient communication amongst ourselves. It was through our designation of how the task that would be completed that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. 
