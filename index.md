@@ -15,4 +15,4 @@ permalink: ../
   * [Week 2](../SSW2 "Week2")
   * [Week 3](../SSW3 "Week3")
   * [Week 4](../SSW4 "Week4")
-  * [Write Up 1](../WU1 "Write Up")
+  * [Write Up 1](../WU1 "Write Up") page wont load for some reason, for now use WU1.md
