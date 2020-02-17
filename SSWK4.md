@@ -6,7 +6,7 @@ permalink: ../SSW4
 ---
 
 ## What I did:
-This week I have attempted two boxes on vulnerable box and was able to crack 
+This week I have attempted two boxes on vulnerable box and was able to crack one of them and made decent progress on the next one.
 
 ## Problems Faced this week. 
 

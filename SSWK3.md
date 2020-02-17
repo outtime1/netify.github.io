@@ -12,7 +12,31 @@ permalink: ../SSW3
 
 ## What I did:
 ### OWASP
-This week I completed a bunch of challenges on OWASP juice shop. 
+This week I completed a bunch of challenges on OWASP juice shop requiring quite a lot of technical knowledge and the understanding of systems. 
+
+
+
+### OTW Natas 
+
+| ![Natas Passwords](/assets/natas.png) |
+| This week, I was able to complete some Natas levels making it to level 6. |
+
+ 
+ 
+
+
+## Problems I Faced:
+This week I faced a few problems regarding to the class, I had little knowledge based on Burpsuite and as such, I was required to learn how to operate the tool on the go, I also had very little knowledge regarding to the syntax of a few of the penetration attacks such as SQL or XSS, this required me to put in more time understanding how these attacks are used and how they can exploit web vulnerabilities. Another problem faced this week was regarding communication amongst our group, though better than last week, I feel that better communication can still be achieved in order to more efficiently accomplish tasks  
+## Reflection on last week
+I listened to the advice given to me from my tutors and tried to add more artifacts that help establish that I am adhering to the subject outlines in this class.
+
+## How I have achieved the Subject Outcomes
+
+### SO2
+This week I was able to apply my design and system thinking skills through the development and research conducted on my presentation throughout the week. I was also able to apply my system thinking skills through the thought process that went into trying to crack some of the OWASP vulnerabilities.
+
+### SO3 
+  I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and OWASP.
 
 | ![0 Star review](/assets/0star.png)  |
 | I was able to leave a 0 star review on the juice shop site by finding the conditional attribute disabled = true. I noticed this by opening the element and checking the attributes on the button. By filling the forms in correctly I noticed this attribute disappear as such i reloaded the page removed the attribute and then completing the other forms correctly. By submitting the feedback you get the mission  |
@@ -38,29 +62,7 @@ This week I completed a bunch of challenges on OWASP juice shop.
 
 | --- |
 | ![XSS Presentation](/assets/XSS.png) |
-| This is the Microsoft teams group where we designated our roles for the presentation |
-
-### OTW Natas 
-
-| ![Natas Passwords](/assets/natas.png) |
-| This week, I was able to complete some Natas levels making it to level 6. |
-
- 
- 
-
-
-## Problems I Faced:
-This week I faced a few problems regarding to the class, I had little knowledge based on Burpsuite and as such, I was required to learn how to operate the tool on the go, I also had very little knowledge regarding to the syntax of a few of the penetration attacks such as SQL or XSS, this required me to put in more time understanding how these attacks are used and how they can exploit web vulnerabilities. Another problem faced this week was regarding communication amongst our group, though better than last week, I feel that better communication can still be achieved in order to more efficiently accomplish tasks  
-## Reflection on last week
-I listened to the advice given to me from my tutors and tried to add more artifacts that help establish that I am adhering to the subject outlines in this class.
-
-## How I have achieved the Subject Outcomes
-
-### SO2
-This week I was able to apply my design and system thinking skills through the development and research conducted on my presentation throughout the week. I was also able to apply my system thinking skills through the thought process that went into trying to crack some of the OWASP vulnerabilities.
-
-### SO3 
-  I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and OWASP.  How I applied these skills can be seen in the above artifacts. 
+| This is the Microsoft teams group where we designated our roles for the presentation |  
 
 ### SO4 
 This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group that we ensured efficient communication amongst ourselves. It was through our designation of how the task that would be completed that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. 
