@@ -14,13 +14,6 @@ permalink: ../SSW3
 ### OWASP
 This week I completed a bunch of challenges on OWASP juice shop requiring quite a lot of technical knowledge and the understanding of systems. 
 
-
-
-### OTW Natas 
-
-| ![Natas Passwords](/assets/natas.png) |
-| This week, I was able to complete some Natas levels making it to level 6. |
-
  
  
 
@@ -64,6 +57,10 @@ This week I was able to apply my design and system thinking skills through the d
 
  I cracked viewing another users basket by logging in as two accounts, this confuses the site and registers that you are one user when you are currently acting as another..
 
+### Over The Wire Natas 
+
+| ![Natas Passwords](/assets/natas.png) |
+| This week, I was able to complete some Natas levels making it to level 6. |
 
 ### SO4 
 This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group that we ensured efficient communication amongst ourselves. It was through our designation of how the task that would be completed that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. 
