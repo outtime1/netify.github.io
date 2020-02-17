@@ -15,17 +15,17 @@ permalink: ../SSW3
 This week I completed a bunch of challenges on OWASP juice shop. 
 
 | ![0 Star review](/assets/0star.png)  |
-| I was able to leave  0 star review by finding a conditional attribute on the submit rating button and removing it .  |
+| I was able to leave a 0 star review on the juice shop site by finding the conditional attribute disabled = true. I noticed this by opening the element and checking the attributes on the button. By filling the forms in correctly I noticed this attribute disappear as such i reloaded the page removed the attribute and then completing the other forms correctly. By submitting the feedback you get the mission  |
 
 
 | ![Bjorns account reset](/assets/bjorn.png) |
-| I was able to reset Bjorn's password by finding  his security questions answer to his account using social media (doxing) and finding a video where he created his account. |
+| I was able to reset Bjorn's password by finding a video in which he answers his security question on his social media (doxing) and resetting his account credentials in the shop. However I am still unable to log in to his account |
 | --- |
 | ![Bjorns account reset](/assets/admin.png) |
 | I was able to access the administrator page by finding reference to it in a java script. From there I was able to delete all 5 stars reviews using the GUI that I have. |
 | --- |
 | ![Bjorns account reset](/assets/jim.png) |
-| I reset Jim's Password by looking him up and finding his brothers middle name. |
+| I reset Jim's Password by finding a Star Trek reference to him in one of the reviews. By using a quick google search I was able to find him and then find his brother I then reset his password by answering the reset security question: What is his brothers middle name?. |
 
 
  I cracked viewing another users basket by logging in as two accounts, this confuses the site and registers that you are one user when you are currently acting as another..
