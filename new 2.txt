@@ -1,0 +1,6 @@
+Not so vulnerable
+
+on net discover
+10.10.141.146 was found
+
+with 
