@@ -15,4 +15,4 @@ permalink: ../
   * [Week 2](../SSW2 "Week2")
   * [Week 3](../SSW3 "Week3")
   * [Week 4](../SSW4 "Week4")
-  * [Write Up 1](../why "Write Up")
+  * [Write Up 1](../SSW45 "Write Up")
