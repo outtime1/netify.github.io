@@ -34,8 +34,21 @@ This week I demonstrated communication with stakeholders by engaging with Nathan
 This week I was able to work on my design skills by considering how I would approach setting up my write up deliverable for this week. This week I used Microsoft Word due to its ease of positioning pictures around text as well as being a simple tool. I asked my tutor Jason how I should format such a document and he was able to provide me with a template on which I could base my work. This helped me understand the formatting of a write up better.
 
 ### SO3 
-This week I demonstrated my technical skills in my attempts to Hack the Box that I assigned myself, these skills are demonstrated in the write up that I have created. The box that Deloitte had given us allowed me to revise some skills used previously.
 
+This week I demonstrated my technical skills in my attempts to Hack the Box both with the log in challenges and the box that I assigned myself, these skills are demonstrated in the write up that I have created. The box that Deloitte had given us allowed me to revise some skills used previously.
+#### The Hack The Box Invite Challenge
+This week I was able to gain access to the hack the box registration page, it took a lot of new skill learning including how to send post methods, how to beautify javascript and how to decypher codes.
+
+When I had reached the invite code page I had seen many different kinds of keys, I had got in slight trouble as the site picked up on me trying to both XSS attack as well as try and Cross Ste Request Forge(CSRF) attack the site and attempted to block me. This was all as I had wanted to call  
+ ![XSRF attack caught ](/assets/xrsf.png)
+ 
+ However I soon got on the right track when I had beautified a Javascript which was capable of creating a invite code.
+ ![Beautified Javascript ](/assets/beauty.png)
+ 
+ It just became a matter of submitting a post request to call the function.  Something I had never heard of doing before. It took time but I stumbled upon a site in which I could submit post requests.
+  ![beautiful stuff ](/assets/bs.png)
+ By doing this I got a string of characters,  an encrypted string I thought probably base 64, after decoding I get told to submit another post request to api/generate. Afterwards it gives me another encrypted set of characters, finally decoding it in base 64 gives you the invite code.
+#### The Deloitte Box
 When attempting the box I used Netdiscover as it allows me to find the boxes IP so that I may begin the information gathering stage of hacking the box.
  ![netdisover ](/assets/netscan.png)
 Then I used nmap so that I could find what ports were available and thus where it could be potentially vulnerable.
