@@ -32,7 +32,7 @@ This week I was able to apply my design and system thinking skills through the d
   I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and OWASP.
 
 | ![0 Star review](/assets/0star.png)  |
-| I was able to leave a 0 star review on the juice shop site by finding the conditional attribute disabled = true. I noticed this by opening the element and checking the attributes on the button. By filling the forms in correctly I noticed this attribute disappear as such i reloaded the page removed the attribute and then completing the other forms correctly. By submitting the feedback you get the mission  |
+| I was able to leave a 0 star review on the juice shop site by considering what was stopping the button from being able to be pressed. Since i know that html buttons can have the attribute disabled applied to them I  saw by filling in the prompts usually that the attribute disabled = true was removed. By reloading the page and removing the attribute prematurely, I found it possible to submit a zero star review.  |
 
 #### I completed the presentation deliverable and then presented it with my group on the 13th of February.
 

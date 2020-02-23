@@ -11,7 +11,7 @@ permalink: ../SSW5
 
 
 ## What I did:
-### OWASP
+### Hack The Box
 This week I was able to access the user on a Hack the Box though a variety of different methods that led me to gaining remote access and then elevating myself to the role of a user. Root access however still aludes me. I also attempted to attack the box that Deloitte had prepared for us.
 
  
@@ -29,9 +29,10 @@ I listened to the advice given to me from my tutors and tried to add more artifa
 This week I demonstrated communication with stakeholders by engaging with Nathan Jones and Pieter Westein two members from the Deloitte security group. It was through there lecture that I gained knowledge into some of the attack vectors used for red teaming. This is crucial for us to learn as it allows us to better understand and prepare for security threats and intruders.
  ![Notes ](/assets/notes.png)
  The rather crrude but quick notes taken in class to keep up with the speed of the presentation.
- 
+  ![Jason ](/assets/jason.png)
 ### SO2 
-This week I was able to work on my design skills by considering how I would approach setting up my write up deliverable for this week. This week I used Microsoft Word due to its ease of positioning pictures around text as well as being a simple tool
+This week I was able to work on my design skills by considering how I would approach setting up my write up deliverable for this week. This week I used Microsoft Word due to its ease of positioning pictures around text as well as being a simple tool. I asked my tutor Jason how I should format such a document and he was able to provide me with a template on which I could base my work. This helped me understand the formatting of a write up better.
+
 ### SO3 
 This week I demonstrated my technical skills in my attempts to Hack the Box that I assigned myself, these skills are demonstrated in the write up that I have created. The box that Deloitte had given us allowed me to revise some skills used previously.
 
@@ -44,7 +45,7 @@ I saw that the ports 22 and 4567 were open, I knew that 4567 was a webserver tha
 
 
 ### SO4 
-This week I collaborated with the class in order to help attack both the boxes that were attempted. 
+This week I collaborated with the class in order to help attack both the boxes that were attempted. This collaboration sped up the rate at which we were able to find the different parts required to further progress through the boxes
 
 ### SO5
 This week had challenged me to revise former parts of my portfolio in order for them to reach the standard that was required for this class. As such I had edited many di
