@@ -21,7 +21,7 @@ This week I was able to access the user on a Hack the Box though a variety of di
 ## Problems I Faced:
 This week I struggled with the boxes that we were assigned to hack this week. I did my best in using the methods that I had previously known and also tried researching new methods 
 ## Reflection on last week
-This week I have done my best to explain my actions as I ha
+This week I have done my best to explain my actions as I show how I have demonstrated the subject outlines for the week. I have continued attempting to resolve the criticism of a lack of relevant artifacts by making sure that there  are plenty of relevant artifacts for the week.
 
 ## How I have achieved the Subject Outcomes
 
@@ -29,10 +29,10 @@ This week I have done my best to explain my actions as I ha
 This week I demonstrated communication with stakeholders by engaging with Nathan Jones and Pieter Westein two members from the Deloitte security group. It was through there lecture that I gained knowledge into some of the attack vectors used for red teaming. This is crucial for us to learn as it allows us to better understand and prepare for security threats and intruders.
  ![Notes ](/assets/notes.png)
  The rather crude but quick notes taken in class to keep up with the speed of the presentation.
-  ![Jason ](/assets/jason.png)
+
 ### SO2 
 This week I was able to work on my design skills by considering how I would approach setting up my write up deliverable for this week. This week I used Microsoft Word due to its ease of positioning pictures around text as well as being a simple tool. I asked my tutor Jason how I should format such a document and he was able to provide me with a template on which I could base my work. This helped me understand the formatting of a write up better.
-
+  ![Jason ](/assets/jason.png)
 ### SO3 
 
 This week I demonstrated my technical skills in my attempts to Hack the Box both with the log in challenges and the box that I assigned myself, these skills are demonstrated in the write up that I have created. The box that Deloitte had given us allowed me to revise some skills used previously.
