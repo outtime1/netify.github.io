@@ -21,7 +21,7 @@ This week I was able to access the user on a Hack the Box though a variety of di
 ## Problems I Faced:
 This week I struggled with the boxes that we were assigned to hack this week. I did my best in using the methods that I had previously known and also tried researching new methods 
 ## Reflection on last week
-I listened to the advice given to me from my tutors and tried to add more artifacts that help establish that I am adhering to the subject outlines in this class.
+This week I have done my best to explain my actions as I ha
 
 ## How I have achieved the Subject Outcomes
 
@@ -42,15 +42,15 @@ This week I was able to gain access to the hack the box registration page, it to
 When I had reached the invite code page I had seen many different kinds of keys, I had got in slight trouble as the site picked up on me trying to both XSS attack as well as try and Cross Ste Request Forge(CSRF) attack the site and attempted to block me. This was all as I had wanted to call  
  ![XSRF attack caught ](/assets/xrsf.png)
  
- However I soon got on the right track when I had beautified a Javascript which was capable of creating a invite code.
+ However I soon got on the right track when I had beautified a Javascript which was capable of creating a invite code as its function name was literally makeInviteCode() 
  ![Beautified Javascript ](/assets/beauty.png)
  
- It just became a matter of submitting a post request to call the function.  Something I had never heard of doing before. It took time but I stumbled upon a site in which I could submit post requests.
+ It just became a matter of submitting a post request so that I was able to call the function.  Something I had never heard of doing before. It took time but I stumbled upon a site in which I could submit post requests.
   ![beautiful stuff ](/assets/bs.png)
  By doing this I got a string of characters,  an encrypted string I thought probably base 64, after decoding I get told to submit another post request to api/generate. Afterwards it gives me another encrypted set of characters, finally decoding it in base 64 gives you the invite code.
 #### The Deloitte Box
 When attempting the box I used Netdiscover as it allows me to find the boxes IP so that I may begin the information gathering stage of hacking the box.
- ![netdisover ](/assets/netscan.png)
+ ![netdiscover ](/assets/netscan.png)
 Then I used nmap so that I could find what ports were available and thus where it could be potentially vulnerable.
  ![Nmap port scan ](/assets/portscan.png)
 I saw that the ports 22 and 4567 were open, I knew that 4567 was a webserver that also had a git repository, this became useful as I thought that I could potentially download the repository so that I could see for hidden files that maybe could clue me into how I could get access into the  however no matter what tools i could use such the git extractor or wget, I was unable to reveal any new information.
