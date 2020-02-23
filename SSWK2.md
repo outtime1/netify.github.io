@@ -36,6 +36,7 @@ This week I was able to apply my design and system thinking skills through the d
 
 | ### SO3 |
 | I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and picoCTF and complete them by using the tools available to me and also developing tools such as my Caesar Cypher solver. |
+Two of the given tasks on the picoCTF challenges required me to be able to convert code using ceaser cyphers. As such I was able to make my own Caesar Cypher solver by making a list of letters, reading what character is currently being read determining its position in the alphabet and then shifts it to the next letter.  This allows me to be able to both encode and decode all shifting cyphers.
 | ![Python](/assets/python1.png) |
 
 | ### SO4 |
