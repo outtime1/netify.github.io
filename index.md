@@ -17,3 +17,4 @@ permalink: ../
   * [Week 4](../SSW4 "Week4")
   * [Write Up 1](../WU1 "Write Up") page wont load for some reason, for now use WU1.md
   * [Week 5](../SSW5 "Week5")
+  * [Week 6](../SSW6 "Week6")
