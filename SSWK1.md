@@ -31,7 +31,5 @@ I was able to engage with stakeholders by learning from Matthew Brennan, a exper
 I was able to use design system thinking skills by working on how the design of my website would function and also in how the markdown language gets converted to HTML
 ### SO3
 I was able to apply technical skills in the creation and development of my website blog through the coding, pushing,  building and forwarding  of the website. These crucial steps made it possible for me to make my portfolio public for people to see. The coding of the website in markdown makes it quicker and easier to write websites than the blocky html. By pushing the website via github so that its version can be controlled stops problems such as reduancy from occuring and allows me to centralise the websites code. By getting it built in jekyll, I can add a theme to the desgin making it have a better feel than just plain text as well as better formatting. By pushing to my netlify domain, I am able to make the website public to those who want to see the work im doing and thus allowing me to complete the task as intended. 
-### SO4
-I was able to demonstrate communication and collaboration by seeking support and advice from our teachers in order to solve obstacles
 ### SO5
 I was able to conduct self reflection by writing my reflection for the week.

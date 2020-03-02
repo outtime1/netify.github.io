@@ -44,8 +44,6 @@ I was able to apply technical skills this week by working on the different puzzl
 | ![Website](/assets/website2.png) |
 | It is however possible to redirect to the right domain by changing the links in the element so that they can be found |
 
-### SLO4 
-This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group that we ensured efficient communication amongst ourselves. It was through our designation of how the task that would be completed that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. 
 
 ### SLO5
 This week I conducted critical review over our group and myself by adding sections to this reflection demonstrating the pitfalls and struggles we faced during this week. This weeks feedback left me to elaborate more on my submissions and try to explain the processes that I use to complete the challenges.
