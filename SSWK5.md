@@ -37,10 +37,10 @@ This week I demonstrated my technical skills in my attempts to Hack the Box both
 #### The Hack The Box Invite Challenge
 This week I was able to gain access to the hack the box registration page, it took a lot of new skill learning including how to send post methods, how to beautify javascript and how to decipher codes.
 
-When I had reached the invite code page I had seen many different kinds of keys, I had got in slight trouble as the site picked up on me trying to both XSS attack as well as try and Cross Ste Request Forge(CSRF) attack the site and attempted to block me. This was all as I had wanted to call  
+When I had reached the invite code page I had seen many different kinds of keys, I had got in slight trouble as the site picked up on me trying to both XSS attack as well as try and Cross Ste Request Forge(CSRF) attack the site and attempted to block me. This was all as I had wanted to call. 
  ![XSRF attack caught ](/assets/xrsf.png)
  
- However I soon got on the right track when I had beautified a Javascript which was capable of creating a invite code as its function name was literally makeInviteCode() 
+ However I soon got on the right track when I had beautified a Javascript which was capable of creating a invite code as its function name was literally makeInviteCode() .
  ![Beautified Javascript ](/assets/beauty.png)
  
  It just became a matter of submitting a post request so that I was able to call the function.  Something I had never heard of doing before. It took time but I stumbled upon a site in which I could submit post requests.
@@ -59,5 +59,5 @@ I saw that the ports 22 and 4567 were open, I knew that 4567 was a webserver tha
 This week I collaborated with the class in order to help attack both the boxes that were attempted. This collaboration sped up the rate at which we were able to find the different parts required to further progress through the boxes.
  ![Collaboration ](/assets/help1.png)
 ### SO5
-This week had challenged me to revise former parts of my portfolio in order for them to reach the standard that was required for this class. As such I had edited some parts of my previous portfolios in order to answer in better depth why I am taking such steps. This can be seen with my rewritten part in wk 3 where I revised how I explained my 0 star review documentation.  I have also restarted from week one and began to more throughly explain my actions when attempting to address the Student Outlines for the week
+This week had challenged me to revise former parts of my portfolio in order for them to reach the standard that was required for this class. As such I had edited some parts of my previous portfolios in order to answer in better depth why I am taking such steps. This can be seen with my rewritten part in wk 3 where I revised how I explained my 0 star review documentation.  I have also restarted from week one and began to more throughly explain my actions when attempting to address the Student Outlines for the week.
 This week I was rather happy with the effort that I put in with my documentation. I believe that I have taken major strides since the start of the class in order to reach a passing standard. I can only hope that I can maintain this standard across the whole of my documentation now.

@@ -20,14 +20,14 @@ This week I also attended a CTF competition at the Google building in Barangaroo
 
 ### Traverxec showcase
 
-On Thursday we went in front of the public and showcased how we completed the box 
+On Thursday we went in front of the public and showcased how we completed the box and the methods that we used. 
 
  
  
 
 
 ## Problems I Faced:
-This week I struggled with the boxes that we were assigned to hack this week. I did my best in using the methods that I had previously known and also tried researching new methods 
+This week I struggled with the boxes that we were assigned to hack this week. I did my best in using the methods that I had previously known and also tried researching new methods. 
 
 ## How I have achieved the Subject Outcomes
 
@@ -47,7 +47,7 @@ This week I demonstrated my technical skills in my attempts to achieve root on t
 ### SO4 
 This week I collaborated with members of my class in order to seek out some advice for how I could complete the Traverxec box. With this help I was able to get out of a pitfall I fallen in and get back on the right path.
 ![Advice](/assets/advice.png)
-This week I also demonstrated collaboration skills by partnering up with two others in order to present a showcase of the Traverxec box
+This week I also demonstrated collaboration skills by partnering up with two others in order to present a showcase of the Traverxec box.
 ![Me receiving a request from my group member](/assets/collab.png)
 
 ### SO5

@@ -40,19 +40,19 @@ This week I was able to apply my design and system thinking skills through the d
  I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and picoCTF and complete them by using the tools available to me and also developing tools such as my Caesar Cypher solver. 
 Two of the given tasks on the picoCTF challenges required me to be able to convert code using Caeser cyphers. As such I was able to make my own Caesar Cypher solver by making a list of letters, reading what character is currently being read determining its position in the alphabet and then shifts it to the next letter.  This allows me to be able to both encode and decode all shifting cyphers.
 ![Pico CTF challenges](/assets/picoCTF.png)  
-With the challenge 2warm I had to convert the number 42 into binary. I was able to do this by taking the biggest factor 2 away from 42 which is 32 which leaves 10. from there I take a way 8 and then 2 as such I then put it in the form of powers of 2 that I took away which equals 101010
-With the challenge Glory of the Gardern part of the code appears to look like base 64 due to the fact that it ends with an equals symbol, a quick conversion reveals the flag
+With the challenge 2warm I had to convert the number 42 into binary. I was able to do this by taking the biggest factor 2 away from 42 which is 32 which leaves 10. from there I take a way 8 and then 2 as such I then put it in the form of powers of 2 that I took away which equals 101010.
+With the challenge Glory of the Gardern part of the code appears to look like base 64 due to the fact that it ends with an equals symbol, a quick conversion reveals the flag.
 With the challenge Insp3t0r the key is split into 3 parts of the inspector menu. 1 part can be found just by inspecting code in the inspector element. This is due to how developers often hide code in there source materials. Parts 2 and 3 can be found in the javascript and css source files for the page another common place where developers leave information.
 The challenge Lets Warm Up was just a simple hexadecimal to ASCII conversion. As such I immediately moved straight to a conversion table and found what it was equivalent to.
-The Numbers challenge gave us numbers and some formatting, from previous experience I know of the abcto123 cypher a simple back conversion finds the flag
+The Numbers challenge gave us numbers and some formatting, from previous experience I know of the abcto123 cypher a simple back conversion finds the flag.
 The challenge Warmed Up is yet another hexadecimal conversion this time into decimal, once again a quick look at a conversion table solves this one.
  ![Python](/assets/python1.png) 
 
 ### SO4 
-This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group and our Facebook chat that we ensured efficient communication amongst ourselves. It was through our designation of the task that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. |
+This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group and our Facebook chat that we ensured efficient communication amongst ourselves. It was through our designation of the task that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. 
  ![Our Gobuster Group](/assets/Gobuster3.png) 
 
 ### SO5
-This week I conducted critical review over our group and myself by adding sections to this reflection demonstrating the pitfalls and struggles I faced during this week. It is my belief that this will allow me to review my weekly actions more critically and ensure that I learn from my past mistakes. I also received criticism from tutors during our 1 on 1's allowing me to better preform for the future weeks
+This week I conducted critical review over our group and myself by adding sections to this reflection demonstrating the pitfalls and struggles I faced during this week. It is my belief that this will allow me to review my weekly actions more critically and ensure that I learn from my past mistakes. I also received criticism from tutors during our 1 on 1's allowing me to better preform for the future weeks.
 
 

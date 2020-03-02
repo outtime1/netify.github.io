@@ -13,7 +13,7 @@ This week I have attempted two boxes on vulnerable box and was able to crack one
 
 ## Problems Faced this week. 
 
-This week  I had a plethora of issues including the corrupting of my Kali box also the difficulty in time management as well as the difficulty of the box
+This week  I had a plethora of issues including the corrupting of my Kali box also the difficulty in time management as well as the difficulty of the box.
 
 
 
@@ -32,7 +32,7 @@ I was able to apply technical skills this week by working on the different puzzl
 
 
 | ![File to Print](/assets/ftp.png) |
-| By accessing the ftp server and logging in as an anonymous user, I was able to access a directory with the file for backup passwords |
+| By accessing the ftp server and logging in as an anonymous user, I was able to access a directory with the file for backup passwords. |
 
 
 | ![Backup Passwords](/assets/password.png) |
@@ -42,7 +42,7 @@ I was able to apply technical skills this week by working on the different puzzl
 | By trying to access the website we were able to see this broken down unformatted wordpress site. It is hard to navigate due to every page not linking to the right domain. |
 
 | ![Website](/assets/website2.png) |
-| It is however possible to redirect to the right domain by changing the links in the element so that they can be found |
+| It is however possible to redirect to the right domain by changing the links in the element so that they can be found. |
 
 
 ### SLO5
