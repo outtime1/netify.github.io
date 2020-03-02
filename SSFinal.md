@@ -10,13 +10,13 @@ permalink: ../SSF
 ## The SLO's
 During these six weeks I actively engaged in different tasks that stood up to the different SLO's that I was tasked to carry out
 
-### SLO1 - Engage with stakeholders to identify a problem or scope a defined problem.
+### SLO 1 - Engage with stakeholders to identify a problem or scope a defined problem.
 During the 6 weeks I endeavored to engage with different stakeholders in order to identify problems in Cyber Security
 <br>
 In Week 1: 
 I engaged with Matthew Brennan a Cyber Security analyst who helped us the learn some of the basics of Cyber security
 <br>
-In Week2: 
+In Week 2: 
 I engaged with two experts in the Cyber Security field: UTS IT Teacher Patrick Kelso and Security Engineering Manger Robert Mitchell who were able to give us advice in different aspects of the Cyber Security field by answering any questions we were able to come up with.
 ![Patrick and Robert](/assets/pat.png)
 Some notes that I took
@@ -37,18 +37,18 @@ I engaged with several members of the Google team who participated in the ninja 
 ### SLO 2 - Apply design and systems thinking to respond to a defined or newly identified problem.  
 During the six weeks I strived to apply design techniques into different forms of media as well as use system thinking to understand different forms of computer systems.
 <br>
-In Week1:
+In Week 1:
 I made use of design and system thinking in order to understand how to deploy my website as a static site. This included me learning how git operated as a version control system and also how I could use Netlify to forward my webpage to a domain.
 ![Netlify](/assets/Netlify.png)
 ![Github](/assets/github.png)
 
 <br>
-In Week2:
+In Week 2:
 I applied design and system thinking by working on my deliverable; the powerpoint.  In this research I was able to grasp how my reconnaissance tool functioned by scanning different directories of sites while alos applying design thinking by considering how my powerpoint would be designed for the presentation
 ![Gobuster Presentation](/assets/Gobuster2.png)
 ![Gobuster Speech](/assets/Gobuster.png)
 <br>
-In Week3:
+In Week 3:
 This week I applied my design and system thinking skills in a rather similar way as last week. This week I learned how Cross Site Scripting (XSS) functioned and exploited the system in which it ran on.
 ![XSS Presentation](/assets/XSS1.png) 
 ![XSS Presentation](/assets/XSS.png) 
@@ -58,7 +58,9 @@ This week I applied my design and system thinking skills by designing how I woul
 <br>
 In Week 6: 
 I Applied my design and system thinking skills by designing both write ups of Open Admin and Travexec so that they demonstrated how I achieved root access on both boxes clearly and concisely.
+
 ### SLO 3 - Apply technical skills to develop, model and/or evaluate designs. 
+
 This Course over the six weeks have developed and enhanced my technical skills in all fields of Cyber Security by applying it in many different tasks that were assigned to me.
 <br>
 In Week 1:
@@ -119,32 +121,37 @@ I demonstrated technical skills through my work of getting the invite code for t
 <br>
 In Week 6:
 I demonstrated my technical skills in my completed write up of both Open Admin and the Travexec boxes.
+
 ### SLO 4 - Demonstrate effective collaboration and communication skills. 
+
 During the six weeks, I did my best to go beyond my comfort zone and work as an effective group member amongst peers.
 <br> 
-In Week2:
+In Week 2:
 I used my collaborative skills to work as an effective group member and carry out the part of the presentation that I was tasked with completing.
 ![Our Gobuster Group](/assets/Gobuster3.png)
 <br>
-In Week3:
+In Week 3:
 I made use of my collaboration skills to carry out my part of my presentation  as requested by the team.
 ![XSS Presentation](/assets/XSS.png)
 <br>
-In Week5:
+In Week 5:
 This week I demonstrated communication skills by offering help to a person who needed it in order to progress in their weekly delivery.
 ![Collaboration ](/assets/help1.png)
 <br>
-In Week6:
+In Week 6:
 I made use of collaboration and communication skills by not being afraid to seek advice from my peers but also in helping out in my group for the showcase by completing the task that was requested of me by my group member.
 ![Advice](/assets/advice.png)
+
 ![Me receiving a request from my group member](/assets/collab.png)
+
 ### SLO 5 - Conduct critical self, peer, and group review and performance evaluation.  
+
 Over the 6 week I have had to conduct critical reflections and evaluations into the preformance of not only myself but also my peers and teachers as well. This was conducted weekly in both our stand up meeting as well as our 1 on 1 conversations with our tutors.
 <br>
-In Week1:
+In Week 1:
 I was able to conduct a review of my actions for the week and record them in my review
 <br>
-In Week2:
+In Week 2:
 I took on the advice of my tutors and tried to review my actions more reflectively by recording more in depth of what I had done for the week and also recording more artifacts for the submission.  
 <br>
 In Week 3:
@@ -153,10 +160,10 @@ I once again took the advice of my tutors and began to record both why and how I
 In Week 4:
 I took further steps in trying to replicate why I preform certain steps in order to demonstrate knowledge of technical skills in my documentation so that I demonstrate a thorough understanding of the tasks of which I am doing.
 <br>
-In Week5:
+In Week 5:
 I continued to work on getting previous submissions up to standards that were acceptable for the class including demonstrating that I actually show technical skills while attempting the OTW natas puzzles.
  ![Added some natas explanations](/assets/natas2.png) 
-In Week6:
+In Week 6:
 I finish continuing to work on the previous submissions and also construct my concluding portfolio entry taking a final look on the class and all that I have gained from it. I have added some further explanations into previous submissions in order to demonstrate that I have made use of technical skills in order to solve problems.
  ![Added some picoCTF explanations](/assets/pico.png) 
 
