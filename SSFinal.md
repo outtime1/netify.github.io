@@ -148,7 +148,7 @@ In Week2:
 I took on the advice of my tutors and tried to review my actions more reflectively by recording more in depth of what I had done for the week and also recording more artifacts for the submission.  
 <br>
 In Week 3:
-I once again took the advice of my tutors and began to record both why and how I employed my technical skills with use of relative artefacts. I also began to start to redo previous submissions o that they could achieve passing quality.
+I once again took the advice of my tutors and began to record both why and how I employed my technical skills with use of relative artefacts. I also began to start to redo previous submissions so that they could achieve passing quality.
 <br>
 In Week 4:
 I took further steps in trying to replicate why I preform certain steps in order to demonstrate knowledge of technical skills in my documentation so that I demonstrate a thorough understanding of the tasks of which I am doing.
