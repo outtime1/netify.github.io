@@ -59,4 +59,4 @@ This week I collaborated with the class in order to help attack both the boxes t
  ![Collaboration ](/assets/help1.png)
 ### SO5
 This week had challenged me to revise former parts of my portfolio in order for them to reach the standard that was required for this class. As such I had edited some parts of my previous portfolios in order to answer in better depth why I am taking such steps. This can be seen with my rewritten part in wk 3 where I revised how I explained my 0 star review documentation.  I have also restarted from week one and began to more throughly explain my actions when attempting to address the Student Outlines for the week
-
+This week I was rather happy with the effort that I put in with my documentation. I believe that I have taken major strides since the start of the class in order to reach a passing standard. I can only hope that I can maintain this standard across the whole of my documentation now.

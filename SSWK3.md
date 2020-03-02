@@ -27,6 +27,13 @@ I listened to the advice given to me from my tutors and tried to add more artifa
 
 ### SO2
 This week I was able to apply my design and system thinking skills through the development and research conducted on my presentation throughout the week. I was also able to apply my system thinking skills through the thought process that went into trying to crack some of the OWASP vulnerabilities.
+| --- |
+| ![XSS Presentation](/assets/XSS1.png) |
+| This was the slide of the presentation that I did regarding the impact of Cross Site Scripting(XSS). |
+
+| --- |
+| ![XSS Presentation](/assets/XSS.png) |
+| This is the Microsoft teams group where we designated our roles for the presentation |  
 
 ### SO3 
   I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and OWASP.
@@ -34,24 +41,13 @@ This week I was able to apply my design and system thinking skills through the d
 | ![0 Star review](/assets/0star.png)  |
 | I was able to leave a 0 star review on the juice shop site by considering what was stopping the button from being able to be pressed. Since i know that html buttons can have the attribute disabled applied to them I  saw by filling in the prompts usually that the attribute disabled = true was removed. By reloading the page and removing the attribute prematurely, I found it possible to submit a zero star review.  |
 
-#### I completed the presentation deliverable and then presented it with my group on the 13th of February.
-
-| --- |
-| ![XSS Presentation](/assets/XSS1.png) |
-| This was the slide of the presentation that I did regarding the impact of Cross Side Scripting(XSS). |
-
-| --- |
-| ![XSS Presentation](/assets/XSS.png) |
-| This is the Microsoft teams group where we designated our roles for the presentation |  
-
-
 | ![Bjorns account reset](/assets/bjorn.png) |
 | I was able to reset Bjorn's password by finding a video in which he answers his security question on his social media (doxing) and resetting his account credentials in the shop. However I am still unable to log in to his account |
 | --- |
 | ![Bjorns account reset](/assets/admin.png) |
 | I was able to access the administrator page by finding reference to it in a java script. From there I was able to delete all 5 stars reviews using the GUI that I have. |
 | --- |
-| ![Bjorns account reset](/assets/jim.png) |
+| ![Jims account reset](/assets/jim.png) |
 | I reset Jim's Password by finding a Star Trek reference to him in one of the reviews. By using a quick google search I was able to find him and then find his brother I then reset his password by answering the reset security question: What is his brothers middle name?. |
 
 
@@ -72,9 +68,9 @@ Level 3: Level 3 was a page whose element revealed did not leak information and 
 ![Not even google](/assets/robots.png)
 ![The secrets](/assets/secret.png)
 Level 4: Level 4 was a change of pace in previous levels. Upon accessing it, it denies me access to the password and tells me that I need to access it to level 5. Obviously I cant do that as I dont have the password for level 5 however I know since it is scanning where I am coming from it is sending out a HTTP request to my browser. By using burpsuite I am able to capture the package and change the referrer tab in the request to say i am coming from natas 5
-![robots.txt](/assets/burp.png)
+![burp.txt](/assets/burp.png)
 level 5: Level 5 was similar idea to level 4 such that it also required packet caapturing. However this one carried an actual variable set to 0. I thought it was boolean and as such changed the value to 1. THis then gave me access to the password
-![robots.txt](/assets/burp2.png)
+![burp with cookie.txt](/assets/burp2.png)
 ### SO4 
 This week I demonstrated collaboration and communication skills through the group work that we were assigned, it was through the creation of our own Microsoft Teams group that we ensured efficient communication amongst ourselves. It was through our designation of how the task that would be completed that we demonstrated our collaboration skills creating a system for the presentation that was fair as well as balanced amongst students. 
 

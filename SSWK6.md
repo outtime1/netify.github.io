@@ -42,7 +42,7 @@ This week I was able to work on my design skills by considering how I would appr
  ![Design plan for showcase](/assets/paln.png) 
 ### SO3 
 
-This week I demonstrated my technical skills in my attempts to achieve root on the Traverxec and Open Admin boxes this week. I also demonstrated 
+This week I demonstrated my technical skills in my attempts to achieve root on the Traverxec and Open Admin boxes this week.  
 
 
 
@@ -53,4 +53,6 @@ This week I also demonstrated collaboration skills by partnering up with two oth
 ![Me receiving a request from my group member](/assets/collab.png)
 
 ### SO5
-TThis week saw to me reflecting on and improving upon different sections of my previous submission in my attempt to get them all to passing levels. The parts I have generally altered are the sections that relate to how I have accomplished the Subject outlines. I have sought to make these sections more lengthy so that I can more thoroughly explain why I pick certain processes and how certain elements affect what I'm doing. 
+This week saw to me reflecting on and improving upon different sections of my previous submission in my attempt to get them all to passing levels. The parts I have generally altered are the sections that relate to how I have accomplished the Subject outlines. I have sought to make these sections more lengthy so that I can more thoroughly explain why I pick certain processes and how certain elements affect what I'm doing. 
+<br>
+This week I was rather pleased with how I progressed with my write ups. I was able to get to root access as the boxes and was able to document such thoughly. Unfortunately I was rather disappointed that my artifacts within my write ups appear to be slightly short of the expected amount.
