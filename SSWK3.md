@@ -63,7 +63,7 @@ This week, I was able to complete some Natas levels making it to level 6.
 
 Level 0: Level 0 was a page where the password was hidden inside the page. From here I inspect the element due to how it contains useful information to the website. The password is found in there.
 Level 1: Level 1 was a page quite similar to the first except that right clicking cannot be done. I countered this by using the f12 keybind and this allowed me to see the password.
-![No Right Click](/assets/nlvl1.png)
+![No Right Click](/assets/nlv1.png)
 Level 2: Level 2 was a page still similar in format to the first 2. An inspection of the element did not find the password outright however there was an image in the directory of /files.  Since I know that another file coudl exist in that directory I traverse to it and find user.txt file. Accessing it reveals the password
 ![A file directory?](/assets/nlvl2.png)
 ![The directory](/assets/tlvl2.png)
