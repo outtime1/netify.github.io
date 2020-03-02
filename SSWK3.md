@@ -27,13 +27,13 @@ I listened to the advice given to me from my tutors and tried to add more artifa
 
 ### SO2
 This week I was able to apply my design and system thinking skills through the development and research conducted on my presentation throughout the week. I was also able to apply my system thinking skills through the thought process that went into trying to crack some of the OWASP vulnerabilities.
-| --- |
-| ![XSS Presentation](/assets/XSS1.png) |
-| This was the slide of the presentation that I did regarding the impact of Cross Site Scripting(XSS). |
+<br>
+ ![XSS Presentation](/assets/XSS1.png) 
+ This was the slide of the presentation that I did regarding the impact of Cross Site Scripting(XSS). 
 
-| --- |
-| ![XSS Presentation](/assets/XSS.png) |
-| This is the Microsoft teams group where we designated our roles for the presentation |  
+<br>
+ ![XSS Presentation](/assets/XSS.png) 
+ This is the Microsoft teams group where we designated our roles for the presentation  
 
 ### SO3 
   I was able to apply technical skills this week by working on the different puzzles that were presented to me on Over the Wire and OWASP.
