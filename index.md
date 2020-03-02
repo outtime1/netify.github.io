@@ -18,4 +18,4 @@ permalink: ../
   * [Write Up 1](../WU1 "Write Up") page wont load for some reason, for now use WU1.md
   * [Week 5](../SSW5 "Week5")
   * [Week 6](../SSW6 "Week6")
-  * [Final Submission](../SSWF "Summer Studio 2020  Final")
+  * [Final Submission](../SSF "Summer Studio 2020  Final")

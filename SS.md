@@ -12,4 +12,4 @@ permalink: ../SS
   * [Write Up 1](../WU1 "Write Up 1")
   * [Week5](../SSW5 "Summer Studio 2020 Week 5")
   * [Week6](../SSW6 "Summer Studio 2020 Week 6")
-  * [Final Submission](../SSWF "Summer Studio 2020  Final")
+  * [Final Submission](../SSF "Summer Studio 2020  Final")
