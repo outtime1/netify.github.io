@@ -56,7 +56,7 @@ This week I applied my design and system thinking skills in a rather similar way
 In Week 5:
 This week I applied my design and system thinking skills by designing how I would present my write up of Open Admin.These thoughts determined how I would format my assignment by considering such thoughts as font sizes and picture placements.
 <br>
-In Week 6 
+In Week 6: 
 I Applied my design and system thinking skills by designing both write ups of Open Admin and Travexec so that they demonstrated how I achieved root access on both boxes clearly and concisely.
 ### SLO 3 - Apply technical skills to develop, model and/or evaluate designs. 
 This Course over the six weeks have developed and enhanced my technical skills in all fields of Cyber Security by applying it in many different tasks that were assigned to me.
