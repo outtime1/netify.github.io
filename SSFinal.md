@@ -154,9 +154,11 @@ In Week 4:
 I took further steps in trying to replicate why I preform certain steps in order to demonstrate knowledge of technical skills in my documentation so that I demonstrate a thorough understanding of the tasks of which I am doing.
 <br>
 In Week5:
-I continued to work on getting previous submissions up to standards that were acceptable for the class.
+I continued to work on getting previous submissions up to standards that were acceptable for the class including demonstrating that I actually show technical skills while attempting the OTW natas puzzles.
+ ![Added some natas explanations](/assets/natas2.png) 
 In Week6:
-I finish continuing to work on the previous submissions and also construct my concluding portfolio entry taking a final look on the class and all that I have gained from it.
+I finish continuing to work on the previous submissions and also construct my concluding portfolio entry taking a final look on the class and all that I have gained from it. I have added some further explanations into previous submissions in order to demonstrate that I have made use of technical skills in order to solve problems.
+ ![Added some picoCTF explanations](/assets/pico.png) 
 
 ### What I Learned
 This class has been incredibly informative for me taking me from an absolute outsider of the Cyber Security subject to a pretty knowledgeable novice who wishes to improve his knowledge further.  It has allowed me to develop and further technical skills in the fields of Pentesting such as reconnaissance and exploitation through the research and deployment of different tools and equipment, enhanced by design and system thinking skills through research, documentation and presenting skills. It has also improved my communication and collaboration skills both with peers but also with different stakeholders by teaching me that true progress requires multiple minds to work on different issues effectively. This course has also taught me to look upon my work critically, making me reconsider the quality of my submissions and improving them thusly. This subject has far exceded my expectations set at the start of the 6 weeks teaching me many of the skills and knowledge that is essential to the Cyber Security field while also giving me contacts that I may interact with long after this class has finished to further my understanding of the subject.  Finally this subject has kindled the passion that was developing in me for the subject of IT and I hope that I am able to further this passion with future classes in the field of Cyber Security. 
