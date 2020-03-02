@@ -28,8 +28,6 @@ On Thursday we went in front of the public and showcased how we completed the bo
 
 ## Problems I Faced:
 This week I struggled with the boxes that we were assigned to hack this week. I did my best in using the methods that I had previously known and also tried researching new methods 
-## Reflection on last week
-This week I have done my best to explain my actions as I show how I have demonstrated the subject outlines for the week. I have continued attempting to resolve the criticism of a lack of relevant artifacts by making sure that there  are plenty of relevant artifacts for the week.
 
 ## How I have achieved the Subject Outcomes
 

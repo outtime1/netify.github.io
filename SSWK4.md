@@ -32,11 +32,11 @@ I was able to apply technical skills this week by working on the different puzzl
 
 
 | ![File to Print](/assets/ftp.png) |
-| By accessing the ftp server and logging in as an anonymous user, we are able to access a dirctory with the file for backup passwords |
+| By accessing the ftp server and logging in as an anonymous user, I was able to access a directory with the file for backup passwords |
 
 
 | ![Backup Passwords](/assets/password.png) |
-| By extracting the passwords from the ftp server using the command recv the file, we find it deposited in the directory we ran CMD in, by opening it in notepad we receive a series of strings that we can read. |
+| By extracting the passwords from the ftp server using the command recv the file, I deposited it in the directory I ran CMD in. By closing the ftp connection and opening it in notepad we receive a series of strings that we can then be used to enumerate a password. |
 
 | ![Website](/assets/website.png) |
 | By trying to access the website we were able to see this broken down unformatted wordpress site. It is hard to navigate due to every page not linking to the right domain. |

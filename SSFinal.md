@@ -22,11 +22,13 @@ I engaged with two experts in the Cyber Security field: UTS IT Teacher Patrick K
 Some notes that I took
 <br>
 In Week 4 : 
-I sought to get advice from my teachers into what box I should attempt to complete for this week. With there council I chose to attempt the literally vulnerable box
+I sought advice from my teachers into what box I should attempt to complete for this week. With there suggestions I chose to attempt the literally vulnerable box
 <br>
 In Week 5:
 I engaged with the two representatives from Deloitte: Nathan Jones and Pieter Westein who showed us the different tools that they used to engage in red teaming operations
  ![Notes ](/assets/notes.png)
+ I also sought the advice of one of my tutors for some insight into how to design a write up report. He was able to link me to a previous attempt of his from a different box.
+ ![Jason ](/assets/jason.png)
 <br>
 In Week 6:
 I engaged with several members of the Google team who participated in the ninja night CTF who were able to provide unique insight into how I should approach CTF challenges in the future.
@@ -52,7 +54,7 @@ This week I applied my design and system thinking skills in a rather similar way
 ![XSS Presentation](/assets/XSS.png) 
 <br>
 In Week 5:
-This week I applied my design and system thinking skills by designing how I would present my write up of Open Admin to my tutors.
+This week I applied my design and system thinking skills by designing how I would present my write up of Open Admin.These thoughts determined how I would format my assignment by considering such thoughts as font sizes and picture placements.
 <br>
 In Week 6 
 I Applied my design and system thinking skills by designing both write ups of Open Admin and Travexec so that they demonstrated how I achieved root access on both boxes clearly and concisely.
@@ -68,6 +70,7 @@ In this week I applied my technical skills through the creation, forwarding and 
 In Week 2:
 This week I demonstrated technical skills through the completion of picoCTF and OTW Bandit levels
 ![Pico CTF challenges](/assets/picoCTF.png)  
+Some of the challenges I completed
 ![Python](/assets/python1.png)
 The Python Ceaser shifter that I made to solve some of the picoCTF problems
 
@@ -77,7 +80,8 @@ I demonstrated technical skills this week through the completion of OTW Natas le
 ![0 Star review](/assets/0star.png) 
 ![Bjorns account reset](/assets/bjorn.png)  
 ![Jims account reset](/assets/jim.png) 
-
+<br>
+Natas work
 Level 0: Level 0 was a page where the password was hidden inside the page. From here I inspect the element due to how it contains useful information to the website. The password is found in there.
 Level 1: Level 1 was a page quite similar to the first except that right clicking cannot be done. I countered this by using the f12 keybind and this allowed me to see the password.
 ![No Right Click](/assets/nlv1.png)
@@ -102,7 +106,13 @@ This Week I demonstrated technical skills by attempting the different boxes on V
 ![Website with format](/assets/website2.png) 
 <br>
 In Week 5:
-I demonstrated technical skills through my work through of the Deloitte box as well as through my methods of my write up of the Open Admin box. The Deloitte box I was able to use some of my reconnaissance skills to find some directories not previously known
+I demonstrated technical skills through my work of getting the invite code for the Hack the box registration and working through the Deloitte box as well as through the methods of my write up of the Open Admin box. The Deloitte box I was able to use some of my reconnaissance skills to find some directories not previously known
+  ![XSRF attack caught ](/assets/xrsf.png)
+  ![Beautified Javascript ](/assets/beauty.png)
+  ![beautiful stuff ](/assets/bs.png) 
+  Me working through the different things that I found interesting in the invite code retrieval. 
+ <br>
+ Deloitte Box
  ![netdiscover ](/assets/netscan.png)
  ![Nmap port scan ](/assets/portscan.png)
  ![Git directory ](/assets/git.png)
@@ -130,6 +140,7 @@ I made use of collaboration and communication skills by not being afraid to seek
 ![Me receiving a request from my group member](/assets/collab.png)
 ### SLO 5 - Conduct critical self, peer, and group review and performance evaluation.  
 Over the 6 week I have had to conduct critical reflections and evaluations into the preformance of not only myself but also my peers and teachers as well. This was conducted weekly in both our stand up meeting as well as our 1 on 1 conversations with our tutors.
+<br>
 In Week1:
 I was able to conduct a review of my actions for the week and record them in my review
 <br>
@@ -140,7 +151,7 @@ In Week 3:
 I once again took the advice of my tutors and began to record both why and how I employed my technical skills with use of relative artefacts. I also began to start to redo previous submissions o that they could achieve passing quality.
 <br>
 In Week 4:
-I took further steps in trying to replicate why I preform certain steps in order to demonstrate knowledge of technical skills.
+I took further steps in trying to replicate why I preform certain steps in order to demonstrate knowledge of technical skills in my documentation so that I demonstrate a thorough understanding of the tasks of which I am doing.
 <br>
 In Week5:
 I continued to work on getting previous submissions up to standards that were acceptable for the class.
