@@ -8,7 +8,7 @@ permalink: ../SSW1
 # Week1 Task Portfolio
 
 
-![Me](/assets/matt.JPG)
+![Me](/assets/matt1.JPG)
 Me
 ## Why I chose this Studio
 I chose this studio due to my interest in majoring in Cyber Security. I wish to see if I enjoy the work that is associated with the field and challenge myself by learning via a new learning method and learning different design based ways of creation and learning. I also enjoy participating in Capture The Flag competitions and would enjoy learning about more exploits commonly used to hide flags. Furthermore I wish to learn more about the other forms of competitions and contests that are available to people who are interested in Cybersecurity.
