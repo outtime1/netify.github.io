@@ -62,7 +62,7 @@ Level 1: Level 1 was a page quite similar to the first except that right clickin
 ![No Right Click](/assets/nlv1.png)
 Level 2: Level 2 was a page still similar in format to the first 2. An inspection of the element did not find the password outright however there was an image in the directory of /files.  Since I know that another file coudl exist in that directory I traverse to it and find user.txt file. Accessing it reveals the password.
 ![A file directory?](/assets/nlvl2.png)
-| ![The directory](/assets/tlvl2.png) |  | ![User.txt](/assets/nlvl3.png) |
+| ![The directory](/assets/tlvl2.png) | ![User.txt](/assets/nlvl3.png) |
 
 Level 3: Level 3 was a page whose element revealed did not leak information and that not even google would find it. Since google could not find it there must be a robots.txt that denies google access. By accessing this page we find a directory named s3cr3t. Accessing it reveals another user.txt that contains the password.
 ![Not even google](/assets/robots.png)
